@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	text-align: center;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.image{
+	width: 100%;
+	padding: 50px;
+}
+
+.data{
+	height: 250px;
+	margin: 20px;
+}
+
+
